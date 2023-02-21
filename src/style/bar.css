@@ -1,0 +1,22 @@
+.bar{
+    width: 55%;
+    background-color: #f1f2f3;
+    border-radius: 20px;
+    margin-bottom: 12px;
+    margin-left: 10px;
+   
+}
+.bar__wrapper{
+    background: linear-gradient( 90deg,#00F260, #0575E6);
+    border-radius: 20px;
+    padding: 6px 14px;
+    color: #fff;
+    font-size: 1rem;
+  
+}
+.bar__icon{
+    width: 20px;
+    height: 20px;
+    margin-right: 7px;
+
+}

@@ -1,0 +1,20 @@
+
+ .project{
+    height: 70vh;
+    padding-top: 30px;
+    overflow-y: auto;
+     }
+.projects_navbar{
+display: flex;
+margin-bottom: 5px;
+gap: 15px;
+margin-left: 10px;
+
+     }
+ .projects_navbar>div{
+    font-size: 1.25rem;
+    cursor: pointer;
+    }
+    .projects_navbar>div:hover{
+      color: #00F260;
+    }
